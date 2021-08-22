@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790494173750",
+    "project_id": "spending-tracker-raju",
+    "storage_bucket": "spending-tracker-raju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790494173750:android:9563cf4fe1454b2ec09697",
+        "android_client_info": {
+          "package_name": "com.example.spending_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790494173750-ftev87j4btar16gc8265nani3393svso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3tJhw-8U7nKasTR9w8vpNmCFbBhnLA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790494173750-ftev87j4btar16gc8265nani3393svso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
